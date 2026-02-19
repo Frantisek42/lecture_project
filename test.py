@@ -1,2 +1,3 @@
-x = 12
-print(x)
+x = 15
+m = "Hello"
+print(f"{m} {x}")
