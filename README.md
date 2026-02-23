@@ -1,4 +1,5 @@
 # lecture_project
 Kurz
 
-New text
+TOTO je ukol cislo 6, pro ukazku, ze funguje verzovani pro readme.md
+Frantisek Klic
