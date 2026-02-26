@@ -1,3 +1,4 @@
 x = 15
 m = "Hello"
-print(f"{m} {x}")
+y = 20
+print(f"{m} {x-y}")
